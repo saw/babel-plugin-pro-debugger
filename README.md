@@ -7,7 +7,7 @@ Every team has them: terrible junior devs who don't know how to debug their code
 
 Your years of senior-level, enterprise experience has tought you that there are so many better ways to debug.
 
-This babel plugin automates the process of fixing this garbage code to bring up to date with industry best practies. 
+This babel plugin automates the process of fixing this garbage code to bring it up to date with industry best practies. 
 
 All debugger statements will be replaced with `console.log('---here filename line: linenum---)` statements, ready to deploy to production.
 
