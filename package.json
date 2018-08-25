@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-pro-debugger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A babel plugin that converts debugger statements to pro debugging technology",
   "homepage": "https://github.com/saw/babel-plugin-pro-debugger#babel-plugin-pro-debugger",
   "repository": {
