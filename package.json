@@ -2,6 +2,11 @@
   "name": "babel-plugin-pro-debugger",
   "version": "0.0.1",
   "description": "A babel plugin that converts debugger statements to pro debugging technology",
+  "homepage": "https://github.com/saw/babel-plugin-pro-debugger#babel-plugin-pro-debugger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saw/babel-plugin-pro-debugger.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
