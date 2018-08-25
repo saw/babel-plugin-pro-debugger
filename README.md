@@ -9,7 +9,7 @@ Your years of senior-level, enterprise experience has tought you that there are 
 
 This babel plugin automates the process of fixing this garbage code to bring up to date with industry best practies. 
 
-All debugger statements will be relaced with `console.log('---here filename line: linenum---)` statements, ready to deploy to production.
+All debugger statements will be replaced with `console.log('---here filename line: linenum---)` statements, ready to deploy to production.
 
 ## Babel Compatibility Notes
 
